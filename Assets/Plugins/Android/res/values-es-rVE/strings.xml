@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Ocurrió un error mientras se restablecía Compra desde la aplicación Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Se proporcionó un valor no válido para Compra desde la aplicación Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Ocurrió un error inesperado. Se canceló la autenticación de la cuenta Samsung.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Su compra a través de Compra desde la aplicación Samsung no es válida. Se ha detectado una aplicación falsa. Compruebe la aplicación que está intentando comprar e inténtelo de nuevo.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Error desconocido</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Compra desde la aplicación Samsung</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Compra desde la aplicación Samsung debe actualizarse</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Para comprar estos elementos, debe instalar Compra desde la aplicación Samsung. ¿Instalar?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Hay una nueva versión de Compra desde la aplicación Samsung disponible. ¿Actualizar?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">En espera...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">El producto no existe en esta tienda</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Ya comprado</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Pago cancelado</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Red no disponible</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Elemento comprado</string>
+</resources>

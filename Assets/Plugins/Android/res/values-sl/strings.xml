@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Med ponastavitvijo aplikacije Samsung In-App Purchase je prišlo do napake</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Podana je neveljavna vrednost za nakup v aplikaciji Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Prišlo je do nepričakovane napake. Preverjanje pristnosti za Samsung račun je preklicano.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Nakup prek storitve nakup v aplikaciji Samsung ni veljaven. Zaznana je lažna aplikacija. Preverite aplikacijo, ko jo poskušate kupiti, in poskusite znova.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Prišlo je do neznane napake</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Samsung In-App Purchase morate posodobiti</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Če želite kupiti izdelke, morate namestiti aplikacijo Samsung nakup v aplikaciji. Jo želite namestiti?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Na voljo je nova različica aplikacije Samsung nakup v aplikaciji. Jo želite posodobiti?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Čakam ...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Izdelek ne obstaja v tej trgovini</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Že nakupljeno</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Plačilo je preklicano</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Omrežje ni na voljo</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Izdelek ste kupili</string>
+</resources>

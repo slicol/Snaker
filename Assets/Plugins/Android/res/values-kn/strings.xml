@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">ಸ್ಯಾಮ್‌ಸಂಗ್ ಇನ್-ಅನ್ವಹಿಸುವಿಕೆ ಪರ್ಚೇಸ್ ಅನ್ನು ಮರುಹೊಂದಿಸುವಾಗ ದೋಷವೊಂದು ಸಂಭವಿಸಿದೆ</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">ಸ್ಯಾಮ್‌ಸಂಗ್ ಇನ್-ಅನ್ವಹಿಸುವಿಕೆ ಖರೀದಿಗಾಗಿ ಅಮಾನ್ಯ ಮೌಲ್ಯವನ್ನು ಒದಗಿಸಲಾಗಿದೆ</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">ಅನಿರೀಕ್ಷಿತ ದೋಷವೊಂದು ಸಂಭವಿಸಿದೆ. Samsung account ಪ್ರಮಾಣೀಕರಣವನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">ಸ್ಯಾಮ್‌ಸಂಗ್ ಇನ್-ಅನ್ವಹಿಸುವಿಕೆ ಪರ್ಚೇಸ್ ಮೂಲಕ ನಿಮ್ಮ ಖರೀದಿಯು ಅಮಾನ್ಯವಾಗಿದೆ. ನಕಲಿ ಅನ್ವಹಿಸುವಿಕೆಯನ್ನು ಪತ್ತೆಹಚ್ಚಲಾಗಿದೆ. ನೀವು ಖರೀದಿ ಮಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ ಅನ್ವಹಿಸುವಿಕೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಹಾಗೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">ಅಜ್ಞಾತ ದೋಷ ಸಂಭವಿಸಿದೆ</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">ಸ್ಯಾಮ್‌ಸಂಗ್ ಇನ್-ಅನ್ವಹಿಸುವಿಕೆ ಖರೀದಿ</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">ಸ್ಯಾಮ್‌ಸಂಗ್ ಇನ್-ಅನ್ವಹಿಸುವಿಕೆ ಖರೀದಿಯನ್ನು ನವೀಕರಿಸಬೇಕಾಗಿದೆ</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">ಅಂಶಗಳನ್ನು ಖರೀದಿಸಲು, ನೀವು ಸ್ಯಾಮ್‌ಸಂಗ್‌ ಇನ್‌-ಆಪ್‌ ಪರ್ಚೇಸ್‌ ಅನ್ನು ಸ್ಥಾಪಿಸುವುದು ಅಗತ್ಯವಾಗಿರುತ್ತದೆ. ಸ್ಥಾಪಿಸುವುದೇ?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">ಸ್ಯಾಮ್‌ಸಂಗ್‌ ಇನ್‌-ಆಪ್‌ ಪರ್ಚೇಸ್‌‌ನ ಒಂದು ಹೊಸ ಆವೃತ್ತಿಯು ಲಭ್ಯವಿರುತ್ತದೆ. ನವೀಕರಿಸುವುದೇ?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">ನಿರೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">ಈ ಅಂಗಡಿಯಲ್ಲಿ ಉತ್ಪನ್ನವು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">ಈಗಾಗಲೇ ಖರೀದಿಸಿದೆ</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">ಪಾವತಿಸುವಿಕೆ ರದ್ದಾಗಿದೆ</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">ನೆಟ್‌ವರ್ಕ್‌ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">ಅಂಶ ಖರೀದಿಸಲಾಗಿದೆ</string>
+</resources>

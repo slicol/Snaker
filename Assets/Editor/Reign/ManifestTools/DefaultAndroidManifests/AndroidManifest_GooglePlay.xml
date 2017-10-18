@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" >
+	<!-- Permisions -->
+	<uses-permission android:name="android.permission.INTERNET" /> <!-- Required for AdMod, InApp purchases and Leaderboards -->
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required for AdMod and Leaderboards -->
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Required for Amazon Ads -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- Required for Amazon Ads -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required for Amazon Ads -->
+	<uses-permission android:name="com.android.vending.BILLING" /> <!-- Required for GooglePlay IAP -->
+	<uses-permission android:name="com.sec.android.iap.permission.BILLING" /> <!-- Required for Samsung IAP -->
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- Required for Amazon IAP Testing and Camera -->
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- May be Required for some devices -->
+	<uses-permission android:name="android.permission.GET_ACCOUNTS" /> <!-- Required for GooglePlay Leaderboards and Achievements -->
+	<uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+	<!-- Application -->
+	<application android:icon="@drawable/app_icon" android:label="@string/app_name">
+		<!-- Reign Plugin Activity -->
+		<!-- NOTE: Set your games orientation via (android:screenOrientation)! -->
+		<!-- Screen Orientation docs: http://developer.android.com/guide/topics/manifest/activity-element.html -->
+		<activity android:name="com.reignstudios.reignnative.ReignUnityActivity" android:launchMode="standard" android:screenOrientation="landscape" android:label="@string/app_name" android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+			<meta-data android:name="android.app.lib_name" android:value="unity" />
+			<meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="true"/>
+		</activity>
+	    
+	    <!-- Amazon Ads -->
+	    <activity android:name="com.amazon.device.ads.AdActivity" android:configChanges="keyboardHidden|orientation|screenSize"/>
+
+	    <!-- GooglePlay Services Version -->
+	    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+	    
+	    <!-- AdMob Activity -->
+		<activity android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
+
+		<!-- GooglePlay Leaderboards and Achievements -->
+		<meta-data android:name="com.google.android.gms.appstate.APP_ID" android:value="\ xxxxxxxxxxxx" /><!-- Set to your Game Services AppID -->
+		<meta-data android:name="com.google.android.gms.games.APP_ID" android:value="\ xxxxxxxxxxxx" /><!-- Set to your Game Services AppID -->
+	</application>
+</manifest>

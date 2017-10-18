@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Tharla earráid agus Ceannach i bhFeidhmchlár Samsung  á athshocrú</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Soláthraíodh luach neamhbhailí do Cheannach i bhFeidhmchlár Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Tharla earráid gan choinne. Cuireadh fíordheimhniú cuntas Samsung ar ceal.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Tá do cheannachán trí Cheannach i bhFeidhmchlár Samsung neamhbhailí. Braitheadh feidhmchlár bréige. Seiceáil an feidhmchlár atá tú ag iarraidh a cheannach agus triail arís.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Tharla earráid anaithnid</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Ceannach i bhFeidhmchlár Samsung</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Ní mór Ceannach i bhFeidhmchlár Samsung a nuashonrú</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Tá Samsung In-App Purchase de dhíth ort le míreanna a cheannach. Suiteáil?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Tá leagan nua de Cheannach in Samsung In-App Purchase ar fáil. Nuashonraigh?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Ag feitheamh...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Níl an táirge ann sa siopa seo</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Ceannaithe cheana féin</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Íocaíocht curtha ar ceal</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Níl líonra ar fáil</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">An mhír atá ceannaithe</string>
+</resources>

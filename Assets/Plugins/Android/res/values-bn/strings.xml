@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Samsung In-App ক্রয় পুনরায় সেট করার সময় একটি ত্রুটি ঘটেছে</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">স্যামসাং ইন-অ্যাপ কেনার জন্য একটি অবৈধ মান সরবরাহিত হয়েছে</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">একটি অপ্রত্যাশিত ত্রুটি ঘটেছে৷ Samsung account প্রমাণীকরণ বাতিল হয়েছে৷</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">আপনার স্যামসাং ইন-অ্যাপ পারচেজের মাধ্যমে ক্রয়টি অবৈধ৷ একটি জাল আবেদন সনাক্ত হয়েছে৷ আপনি যে অ্যাপটি কিনতে চান তা পরীক্ষা করুন এবং পুনরায় চেষ্টা করুন৷</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">অজানা ত্রুটি ঘটেছে</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">স্যামসাং ইন-অ্যাপ ক্রয়</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">স্যামসাং ইন-অ্যাপ ক্রয় আপডেট করা দরকার</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">আইটেমগুলি কিনতে আপনার স্যামসাং ইন-অ্যাপ ক্রয় ইনস্টল করা প্রয়োজন৷ ইনস্টল করবেন?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">স্যামসাং ইন-অ্যাপ  ক্রয় এর একটি নতুন সংস্করণ সুলভ৷ আপডেট করবেন?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">প্রতীক্ষা করা হচ্ছে...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">এই স্টোরে প্রোডাক্টটি নেই</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">ইতিমধ্যেই কেনা হয়েছে</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">প্রদান বাতিল হয়েছে</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">নেটওয়ার্ক উপলব্ধ নয়</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">আইটেম ক্রয় করা হয়েছে</string>
+</resources>

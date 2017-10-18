@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Ett fel inträffade under återställning av Samsung-programmet för att köpa i program</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Ett ogiltigt värde har tillhandahållits för Samsung-programmet för att köpa i program</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Ett oväntat fel inträffade. Autentiseringsen för Samsung-kontot har avbrutits.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Ditt köp via Samsung-programmet för att köpa i program ogiltigt. Ett bluffprogram har upptäckts. Kontrollera det program du försöker köpa och försök igen.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Okänt fel inträffade</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung-programmet för att köpa i program</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Samsung-programmet för att köpa i program måste uppdateras</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Om du vill köpa objekt måste du installera Samsung-programmet för att köpa i program. Vill du installera?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Det finns en ny version av Samsung-programmet för att köpa i program tillgänglig. Vill du uppdatera?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Väntar...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Produkten finns inte i den här butiken</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Redan köpt</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Betalningen avbröts</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Nätverket ej tillgängligt</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Artikel köpt</string>
+</resources>

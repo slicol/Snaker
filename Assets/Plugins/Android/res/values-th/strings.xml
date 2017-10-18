@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">เกิดข้อผิดพลาด ขณะรีเซ็ทการสั่งซื้อในแอพ ของ Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">มีการระบุค่าไม่ถูกต้อง สำหรับการสั่งซื้อในแอพของ Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">เกิดข้อผิดพลาดที่ไม่ได้คาดคิด ข้อมูลการรับรอง Samsung account ถูกยกเลิกแล้ว</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">การสั่งซื้อในแอพของ Samsung ของคุณไม่ถูกต้อง มีการตรวจพบแอพพลิเคชั่นปลอม ตรวจสอบแอพที่คุณพยายามซื้อ และลองอีกครั้ง</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">เกิด​ข้อ​ผิด​พลาด​ที่​ไม่​รู้จัก</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">การสั่งซื้อในแอพของ Samsung</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">ต้องอัพเดทการสั่งซื้อในแอพของ Samsung</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">ในการซื้อรายการต่างๆ คุณต้องติดตั้งการสั่งซื้อในแอพของ Samsung ติดตั้ง?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">มีเวอร์ชั่นใหม่ของการสั่งซื้อในแอพของ Samsung อัพเดท?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">กำลัง​รอ...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">ไม่​มี​ผลิตภัณฑ์​ใน​ร้าน​ค้า​นี้</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">ซื้อ​เรียบ​ร้อย</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">การชำระเงินถูกยกเลิก</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">เครือ​ข่าย​ใช้​ไม่​ได้</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">รายการที่ซื้อ</string>
+</resources>

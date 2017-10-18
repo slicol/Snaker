@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Дојде до грешка при ресетирањето на Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Дадена е неважечка вредност за Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Дојде до неочекувана грешка. Потврдувањето на сметката Samsung беше откажано.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Купувањето преку Samsung In-App Purchase е неважечко. Откриена е лажна апликација. Проверете ја апликацијата што сакате да ја купите и обидете се повторно.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Дојде до непозната грешка</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Samsung In-App Purchase треба да се ажурира</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">За да купувате ставки, треба да го инсталирате Samsung купување во апликација. Да се инсталира?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Достапна е нова верзија на Samsung купување во апликација. Да се ажурира?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Чекање...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Производот не постои во оваа продавница</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Веќе купено</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Плаќањето е одложено</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Мрежата е недостапна</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Записот е купен</string>
+</resources>

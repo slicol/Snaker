@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">An error occurred while resetting Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">An invalid value has been provided for Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">An unexpected error has occurred. Samsung account authentication has been cancelled.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Your purchase via Samsung In-App Purchase is invalid. A fake application has been detected. Check the app you are trying to purchase and try again.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Mperi amaghị dapụtara</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Samsung In-App Purchase needs to be updated</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">To purchase items, you need to install Samsung In-App Purchase. Install?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">A new version of Samsung In-App Purchase is available. Update?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Nọ na nchere...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Ngwaahịa a adịghị adị na ebe nchekwa a</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Azụtala ya</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Akagburu ịkwụ ụgwọ</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Ọnọdụ ọdịda</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Item purchased</string>
+</resources>

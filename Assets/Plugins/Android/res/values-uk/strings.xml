@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Сталася помилка під час скидання установок Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Для Samsung In-App Purchase вказано хибне значення</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Сталася неочікувана помилка. Аутентифікацію облікового запису Samsung скасовано</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Придбання через Samsung In-App Purchase недійсне. Виявлено псевдопрограму. Перевірте програму, яку ви намагаєтеся придбати, та спробуйте ще раз</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Сталася невідома помилка</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Потрібно оновити Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Для придбання об\'єктів потрібно встановити Samsung In-App Purchase. Встановити?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Доступна нова версія Samsung In-App Purchase. Оновити?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Очікування...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Продукту немає в цій крамниці</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Уже придбано</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Платіж скасовано</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Мережа недоступна</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Об’єкт придбано</string>
+</resources>

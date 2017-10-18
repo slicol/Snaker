@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">सैमसंग इन-ऐप परचेज रीसेट करते समय एक त्रुटि पार्ई गई</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">सैमसंग इन-ऐप परचेज के लिए कोई अमान्य मान प्रदान किया गया है</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">एक अनपेक्षित त्रुटि उत्पन्न हुई है। Samsung account का प्रमाणीकरण रद्द हो गया है।</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">आपके द्वारा सैमसंग इन-ऐप परचेज के माध्यम से की गई खरीदी अमान्य है। एक जाली एप्लीकेशन का पता लगा है। आप जिस ऐप को खरीदने का प्रयास कर रहे हैं, उसे जाँचें और फिर से प्रयास करें।</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">अज्ञात त्रुटि पायी गयी</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">सैमसंग इन-ऐप परचेज</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">सैमसंग इन-ऐप परचेज को अपडेट किए जाने की आवश्यकता है</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">मदें खरीदने के लिए, आपको सैमसंग इन-ऐप परचेस़ स्थापित करना आवश्यक हैं। स्थापित करें?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">सैमसंग इन-ऐप परचेस़ का एक नया संस्करण उपलब्ध है। अपडेट करें?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">प्रतीक्षा कर रहा है...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">इस स्टोर में उत्पाद मौजूद नहीं है</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">पहले से खरीदा हुआ है</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">भुगतान रद्द किया गया</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">नेटवर्क उपलब्ध नहीं</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">मद खरीदी गई</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase ысыру кезінде қате пайда болды</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase бағдарламасы үшін жарамсыз мән көрсетілген</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Күтпеген қате пайда болды. Samsung есептік жазбасының аутентификациясынан бас тартылды</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Samsung In-App Purchase арқылы жасалған сатып алу жарамсыз. Жалған бағдарлама анықталды. Сатып алғыңыз келген бағдарламаны тексеріп, әрекетті қайталап көріңіз</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Белгісіз қате пайда болды</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Samsung In-App Purchase жаңарту қажет</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Элементтерді сатып алу үшін Samsung In-App Purchase бағдарламасын орнату керек. Орнату керек пе?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Samsung In-App Purchase бағдарламасының жаңа нұсқасы қол жетімді. Жаңарту керек пе?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Күтуде...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Өнім бұл дүкенде жоқ</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Бұрын сатып алынған</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Төлемнен бас тартылды</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Желі үзіліп кетті</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Элемент сатып алынды</string>
+</resources>

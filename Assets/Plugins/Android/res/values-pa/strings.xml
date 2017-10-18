@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">ਸੈਮਸੰਗ ਇਨ-ਐਪ ਪਰਚੇਜ਼ ਨੂੰ ਰੀਸੈੱਟ ਕਰਦੇ ਸਮੇਂ ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">ਸੈਮਸੰਗ ਇਨ-ਐਪ ਪਰਚੇਜ਼ ਦੇ ਲਈ ਇੱਕ ਅਵੈਧ ਮਾਨ ਪ੍ਰਦਾਨ ਕੀਤਾ ਗਿਆ ਹੈ</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">ਇੱਕ ਅਸੰਭਾਵਿਤ ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ। Samsung account ਪ੍ਰਮਾਣੀਕਰਨ ਰੱਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">ਸੈਮਸੰਗ ਇਨ-ਐਪ ਪਰਚੇਜ਼ ਰਾਹੀਂ ਕੀਤੀ ਗਈ ਤੁਹਾਡੀ ਖਰੀਦਾਰੀ ਅਵੈਧ ਹੈ। ਕਿਸੇ ਨਕਲੀ ਅਨੁਪ੍ਰਯੋਗ ਦੀ ਖੋਜ ਕੀਤੀ ਗਈ ਹੈ। ਤੁਸੀਂ ਜਿਹੜੇ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਖਰੀਦਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ ਉਸਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">ਅਗਿਆਤ ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">ਸੈਮਸੰਗ ਇਨ-ਐਪ ਪਰਚੇਜ਼</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">ਸੈਮਸੰਗ ਇਨ-ਐਪ ਪਰਚੇਜ਼ ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">ਆਈਟਮ ਖਰੀਦਣ ਦੇ ਲਈ, ਤੁਹਾਨੂੰ ਸੈਮਸੰਗ ਇਨ-ਐਪ ਪਰਚੇਜ਼ ਸਥਾਪਿਤ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਸਥਾਪਿਤ ਕਰੋ?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">ਸੈਮਸੰਗ ਇਨ-ਐਪ ਪਰਚੇਜ਼ ਦਾ ਇੱਕ ਨਵਾਂ ਸੰਸਕਰਣ ਉਪਲਬਧ ਹੈ। ਅਪਡੇਟ ਕਰੋ?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">ਉਡੀਕ ਕਰ ਰਿਹਾ ਹੈ...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">ਉਤਪਾਦ ਇਸ ਸਟੋਰ ਵਿੱਚ ਮੌਜ਼ੂਦ ਨਹੀਂ ਹੈ</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">ਪਹਿਲਾਂ ਹੀ ਖ਼ਰੀਦ ਲਈ ਗਈ</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">ਭੁਗਤਾਨ ਰੱਦ ਕੀਤੀ ਗਈ</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">ਨੈੱਟਵਰਕ ਉਪਲੱਬਧ ਨਹੀਂ</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">ਆਈਟਮ ਖਰੀਦਿਆ ਗਿਆ</string>
+</resources>

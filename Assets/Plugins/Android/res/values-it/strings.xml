@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Si è verificato un errore durante il ripristino dell\'applicazione Acquisti in-app Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">È stato fornito un valore non valido per l\'applicazione Acquisti in-app Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Si è verificato un errore imprevisto. L\'autenticazione dell\'account Samsung è stata annullata.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">L\'acquisto effettuato con Acquisti in-app Samsung non è valido. È stata rilevata un\'applicazione falsa. Verificate l\'applicazione che state tentando di acquistare e riprovate.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Si è verificato un errore sconosciuto</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Acquisti in-app Samsung</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">È necessario aggiornare l\'applicazione Acquisti in-app Samsung</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Per acquistare degli elementi, è necessario installare l\'applicazione Acquisti in-app Samsung. Installare?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">È disponibile una nuova versione di Acquisti in-app Samsung. Aggiornare?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Attendere...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Prodotto inesistente in questo Shop</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Già acquistato</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Pagamento annullato</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Rete non disponibile</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Elemento acquistato</string>
+</resources>

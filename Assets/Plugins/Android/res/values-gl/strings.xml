@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Produciuse un erro durante o restablecemento de Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Forneceuse un valor non válido para Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Produciuse un erro inesperado. Cancelouse a autenticación da Samsung account.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">A túa compra a través de Samsung In-App Purchase non é válida. Detectouse unha aplicación falsa. Comproba a aplicación que estás a tentar comprar e téntao de novo.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Houbo un erro descoñecido</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Cómpre actualizar Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Para mercar elementos, precisas instalar Compra de aplicacións interna de Samsung. Desexas instalalo?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Hai unha nova versión de In-App Purchase de Samsung dispoñible. Desexas actualizala?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Esperando...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">O produto non existe nesta tenda</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Xa está comprado</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Pagamento cancelado</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Rede non dispoñible</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Elemento mercado</string>
+</resources>

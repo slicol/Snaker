@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">सॅमसंग इन-ऍप पर्चेस रिसेट करताना त्रुटी आली</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">सॅमसंग इन-ऍप पर्चेससाठी एक अग्राह्य मूल्य पुरवले गेले आहे</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">एक अनपेक्षित त्रुटी आली आहे. Samsung account वैधीकरण रद्द करण्यात आले आहे.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">सॅमसंग इन-ऍप पर्चेसद्वारे तुमची खरेदी अग्राह्य आहे. एक खोटा अनुप्रयोग सापडला आहे. तुम्ही खरेदी करण्याचा प्रयत्न करीत असलेला अनुप्रयोग तपासून पाहा आणि पुन्हा प्रयत्न करा.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">अज्ञात त्रुटी आली</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">सॅमसंग इन-ऍप पर्चेस</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">सॅमसंग इन-ऍप पर्चेस अद्यतनित करणे आवश्‍यक आहे</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">आयटेम्स खरेदी करण्यासाठी, आपण सॅमसंग इन-ऍप पर्चेस इन्स्टॉल करणे गरजेचे आहे. इन्स्टॉल करायचे?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">सॅमसंग इन-ऍप पर्चेस चे नवीन संस्करण उपलब्‍ध आहे. अपडेट करायचे?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">प्रतीक्षा...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">या स्टोअरमध्ये उत्पादन अस्तित्वात नाही</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">आधीच विकत घेतलेले</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">देय रद्द केलेले</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">नेटवर्क उपलब्ध नाही</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">आयटम खरेदी केले</string>
+</resources>

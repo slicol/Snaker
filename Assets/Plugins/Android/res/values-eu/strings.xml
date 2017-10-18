@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Errore bat gertatu da Samsung In-App erosketa berrezartzean</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Balio baliogabea eman da Samsung In-App erosketan</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Ezusteko errorea gertatu da. Samsung account-en autentifikazioa ezeztatu da.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Samsung In-App erosketa bidezko erosketa baliogabea da. Aplikazio faltsu bat detektatu da. Egiaztatu erosketa egiteko erabiltzen ari zaren aplikazioa eta saiatu berriro.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Errore ezezaguna gertatu da</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App erosketa</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Samsung In-App erosketak eguneratzea behar du</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Elementuak erosteko, Samsung In-App Erosketa instalatu behar duzu. Instalatu?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Samsung In-App Purchase-n bertsio berria eskuragarri. Eguneratu?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Zain...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Produktua ez da existitzen denda honetan</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Lehendik erosia</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Ordainketa utzita</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Sarea ez dago eskuragarri</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Gaia erosita</string>
+</resources>

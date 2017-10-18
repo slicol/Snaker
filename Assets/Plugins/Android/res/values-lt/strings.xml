@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Įvyko klaida iš naujo nustatant \„Samsung In-App Purchase\“</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">\„Samsung In-App Purchase\“ buvo pateikta neteisinga reikšmė</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Įvyko netikėta klaida. \„Samsung\“ paskyros patvirtinimas buvo atšauktas.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Jūsų pirkimas per \„Samsung In-App Purchase\“ negalioja. Aptikta suklastota programa. Patikrinkite bandomą įsigyti programą ir bandykite dar kartą.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Įvyko nežinoma klaida</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">\„Samsung In-App Purchase\“ reikia atnaujinti</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Norėdami įsigyti elementų, turite įdiegti \„Samsung In-App Purchase\“. Įdiegti?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Yra nauja \„Samsung In-App Purchase\“ versija. Atnaujinti?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Laukiama...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Šioje parduotuvėje šio produkto nėra</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Jau įsigyta</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Mokėjimas atšauktas</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Tinklas nepasiekiamas</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Įsigytas elementas</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">هنگام تنظیم مجدد خرید درون برنامه سامسونگ خطایی رخ داد</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">یک مقدار نادرست برای خرید درون برنامه Samsung ارائه شده است</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">یک خطای غیرمنتظره رخ داده است. تعیین اعتبار اشتراک سامسونگ لغو شده است.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">خرید شما از طریق خرید درون برنامه Samsung نامعتبر است. یک برنامه تقلبی شناسایی شد. برنامه مورد نظر جهت خرید را پیدا کرده و دوباره امتحان کنید.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">خطای نامشخصی رخ داد</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">خرید درون برنامه سامسونگ</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">خرید درون برنامه سامسونگ باید به روزرسانی شود</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">برای خرید موارد، باید خرید درون برنامه سامسونگ را نصب کنید. نصب شود؟</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">نسخه جدید خرید درون برنامه سامسونگ موجود است. به روزرسانی شود؟</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">در انتظار...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">محصول در این فروشگاه موجود نیست</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">هم اکنون خریداری شده است</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">پرداخت لغو شد</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">شبکه در دسترس نیست</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">مورد خریداری شد</string>
+</resources>

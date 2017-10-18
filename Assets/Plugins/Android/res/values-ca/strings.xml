@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">S\'ha produït un error en restablir Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">S\'ha proporcionat un valor no vàlid per a In-App Purchase de Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">S\'ha produït un error no esperat. Es cancel·larà l\'autenticació de Samsung account.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">La seva compra mitjançant In-App Purchase de Samsung no és vàlida. S\'ha detectat una aplicació falsa. Comprovi l\'aplicació que intenta comprar i torni-ho a intentar.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">S\'ha produït un error desconegut</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Cal actualitzar Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Per comprar elements, cal que instal·li Samsung In-App Purchase. Instal·lar?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Hi ha una nova versió de Samsung In-App Purchase disponible. Actualitzar?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Esperant...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">El producte no existeix en aquesta botiga</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Ja comprat</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Pagament cancel·lat</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Xarxa no disponible</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Element comprat</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Παρουσιάστηκε σφάλμα κατά την επαναφορά του Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Δόθηκε μη έγκυρη τιμή για την αγορά εντός της εφαρμογής Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Προέκυψε μη αναμενόμενο σφάλμα. Ο έλεγχος ταυτότητας του λογαριασμού Samsung account ακυρώθηκε.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Η αγορά σας μέσω της αγοράς εντός της εφαρμογής Samsung δεν είναι έγκυρη. Εντοπίστηκε ψευδής εφαρμογή. Ελέγξτε την εφαρμογή που προσπαθείτε να αγοράσετε και δοκιμάστε ξανά.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Παρουσιάστηκε άγνωστο σφάλμα</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Το Samsung In-App Purchase πρέπει να ενημερωθεί</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Πρέπει να εγκαταστήσετε το εργαλείο αγοράς εντός εφαρμογής της Samsung για να αγοράσετε στοιχεία. Να εγκατασταθεί;</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Υπάρχει διαθέσιμη μια νέα έκδοση του εργαλείου αγοράς εντός εφαρμογής της Samsung. Να γίνει ενημέρωση;</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Αναμονή...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Το προϊόν δεν υπάρχει στο κατάστημα</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Αγοράστηκε ήδη</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Η πληρωμή ακυρώθηκε</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Δίκτυο μη διαθέσιμο</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Η αγορά του στοιχείου ολοκληρώθηκε</string>
+</resources>

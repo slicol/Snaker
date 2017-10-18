@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">സാംസങ്ങ് ഇന്‍-ആപ്ലിക്കേഷന്‍ പര്‍ച്ചേസ് പുനക്രമീകരിക്കുന്നതിനിടെ ഒരു തെറ്റ് സംഭവിച്ചു</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">സാംസങ്ങ് ഇൻ-ആപ്ലിക്കേഷൻ വാങ്ങലിന് ലഭ്യമാക്കിയത് അസാധുവായ ഒരു മൂല്യമാണ്</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">ഒരു അവിചാരിത പിശക് സംഭവിച്ചു. Samsung account ആധികാരികമാക്കൽ റദ്ദാക്കപ്പെട്ടു.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">സാംസങ്ങ് ഇൻ-ആപ്ലിക്കേഷൻ വാങ്ങൽ വഴിയുള്ള നിങ്ങളുടെ വാങ്ങൽ അസാധുവാണ്. ഒരു വ്യാജ ആപ്ലിക്കേഷനെ കണ്ടെത്തിയിട്ടുണ്ട്. നിങ്ങൾ വാങ്ങാൻ ശ്രമിച്ചുകൊണ്ടിരിക്കുന്ന ആപ്ലിക്കേഷനെ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">അജ്ഞാത പിശക് സംഭവിച്ചു</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">സാംസങ്ങ് ഇന്‍-ആപ്ലിക്കേഷന്‍ പര്‍ച്ചേസ്</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">സാംസങ്ങ് ഇന്‍-ആപ്ലിക്കേഷന്‍ പര്‍ച്ചേസ് അപ്‌ഡേറ്റുചെയ്യേണ്ടതുണ്ട്</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">ഇനങ്ങള്‍ വാങ്ങുന്നതിന്, നിങ്ങള്‍ സാംസങ്ങ് ഇന്‍-ആപ്ലിക്കേഷന്‍ പര്‍ച്ചെയ്സ് ഇന്‍സ്റ്റാള്‍ ചെയ്യേണ്ടതുണ്ട്. ഇന്‍സ്റ്റാള്‍ ചെയ്യണോ?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">സാംസങ്ങ് ഇന്‍-ആപ്ലിക്കേഷന്‍ പര്‍ച്ചെയ്സിന്‍റെ ഒരു പുതിയ പതിപ്പ് ലഭ്യമാണ്. അപ്‍ഡേറ്റുചെയ്യണോ?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">വെയ്റ്റിംഗ്...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">ഈ സ്റ്റോറില്‍ ഉല്‍പന്നം നിലവിലില്ല</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">ഇതിനകം തന്നെ വാങ്ങി</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">പണമടയ്ക്കല്‍ റദ്ദാക്കി</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">നെറ്റ് വര്‍ക്ക് ലഭ്യമല്ല</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">ഇനം വാങ്ങി</string>
+</resources>

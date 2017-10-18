@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">స్యామ్‌సంగ్ ఇన్-యాప్ కొనుగోలుని రీసెట్ చేయడంలో దోషం సంభవించింది</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">స్యామ్‌సంగ్ ఇన్-అప్లికేషన్ కొనుగోలు కోసం చెల్లని విలువ అందించబడింది</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">అనుకోని దోషం సంభవించింది. Samsung account ప్రమాణీకరణ రద్దు చేయబడింది.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">స్యామ్‌సంగ్ ఇన్-అప్లికేషన్ కొనుగోలు ద్వారా మీ కొనుగోలు చెల్లదు. నకిలీ అప్లికేషన్ గుర్తించబడింది. మీరు కొనుగోలు చేయడానికి ప్రయత్నిస్తున్న అప్లికేషన్‌ని తనిఖీ చేసి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">తెలియని లోపం ఏర్పడింది</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">స్యామ్‌సంగ్ ఇన్-యాప్ కొనుగోలు</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">స్యామ్‌సంగ్ ఇన్-యాప్ కొనుగోలుని అప్‌డేట్ చేయాలి</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">ఐటెమ్‌లను కొనుగోలు చేయడానికి, మీరు స్యామ్‌సంగ్ ఇన్-యాప్ కొనుగోలును వ్యవస్థాపించాలి. వ్యవస్థాపించాలా?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">స్యామ్‌సంగ్ ఇన్-యాప్ కొనుగోలు కొత్త సంస్కరణ అందుబాటులో ఉంది. నవీకరించాలా?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">వేచి ఉంది...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">ఈ నిల్వలో ఉత్పత్తి లేదు</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">ముందే కొన్నారు</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">చెల్లింపు విఫలమైంది</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">నెట్వర్క్ అందుబాటులో లేదు</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">ఐటెమ్ కొనుగోలు చేయబడింది</string>
+</resources>

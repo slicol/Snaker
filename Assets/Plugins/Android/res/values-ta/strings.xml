@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">சாம்சங் உள்-ப.பாடு வாங்குதலை ரீசெட் செய்கையில் பிழை நிகழ்ந்தது</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">சாம்சங் பயன்பாட்டுக்கு உள்ளான வாங்குதலுக்கு ஒரு தவறான மதிப்பு வழங்கப்பட்டது</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">ஒரு எதிர்பாராத பிழை ஏற்பட்டது. Samsung account அங்கீகரிப்பு ரத்து செய்யப்பட்டது.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">சாம்சங் பயன்பாட்டுக்கு உள்ளேயான உங்கள் வாங்குதல் தவறானது. ஒரு போலி பயன்பாடு கண்டறியப்பட்டது. நீங்கள் வாங்க முயற்சிக்கும் பயன்பாட்டைச் சோதித்து மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">தெரியாத பிழை ஏற்பட்டுள்ளது</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">சாம்சங் உள்-ப.பாடு வாங்குதல்</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">சாம்சங் உள்-ப.பாடு வாங்குதல் புதுப்பிக்கப்பட வேண்டியுள்ளது</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">உருப்படிகளை வாங்க சாம்சங் உள்-ப.பாட்டு வாங்குதலை நீங்கள் நிறுவ வேண்டும். நிறுவவா?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">சாம்சங் உள்-ப.பாடு வாங்குதலில் ஓர் புதிய பதிப்பு கிடைக்கிறது. புதுப்பிக்கவா?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">காத்திருக்கிறது...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">இந்த சேமிப்பில் பொருள் இல்லை</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">முன்பே வாங்கப்பட்டது</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">கட்டணத்தொகை ரத்து செய்யப்பட்டது</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">நெட்வொர்க் இல்லை</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">உருப்படி வாங்கப்பட்டது</string>
+</resources>

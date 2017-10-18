@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Při resetování aplikace Samsung In-App Purchase došlo k chybě</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Byla poskytnuta neplatná hodnota pro nákup z aplikace Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Došlo k neočekávané chybě. Ověření Samsung účtu bylo zrušeno.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Váš nákup prostřednictvím nákupu z aplikace Samsung je neplatný. Byla detekována falešná aplikace. Zkontrolujte aplikaci, kterou se pokoušíte koupit, a opakujte akci.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Došlo k neznámé chybě</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Je zapotřebí aktualizovat aplikaci Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Chcete-li nakupovat, musíte nainstalovat modul nákupu z aplikace od společnosti Samsung. Instalovat?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">K dispozici je nová verze modulu nákupu z aplikace od společnosti Samsung. Aktualizovat?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Čekám...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Produkt v tomto obchodě neexistuje</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Již zakoupeno</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Platba byla zrušena</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Síť není dostupná</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Položka zakoupena</string>
+</resources>

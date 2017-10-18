@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Kesalahan terjadi saat mereset Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Nilai tidak valid dimasukkan ke Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Telah terjadi kesalahan tak terduga. Autentikasi akun Samsung telah dibatalkan.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Pembelian Anda lewat Samsung In-App Purchase tidak valid. Aplikasi palsu telah terdeteksi. Periksa aplikasi yang Anda hendak beli lalu coba lagi.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Terjadi kesalahan tak dikenal</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Samsung In-App Purchase perlu diperbarui</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Untuk membeli item, Anda perlu menginstal Samsung In-App Purchase. Instal?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Tersedia Samsung In-App Purchase versi baru. Perbarui?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Menunggu...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Produk tidak tersedia di toko ini</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Sudah dibeli</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Pembayaran dibatalkan</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Jaringan tdk tersedia</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Item yang dibeli</string>
+</resources>

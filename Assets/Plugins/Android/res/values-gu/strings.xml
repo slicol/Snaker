@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">સેમસંગ ઇન-અનુપ્રયોગ ખરીદીને ફરીથી ગોઠવવામાં ભૂલ આવી</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">સેમસંગ ઇન-એપ ખરીદી માટે એક અમાન્ય મૂલ્ય પ્રદાન કરવામાં આવ્યું છે</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">એક અનપેક્ષિત ભૂલ આવી. Samsung account પ્રમાણીકરણ રદ કરવામાં આવ્યું.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">સેમસંગ ઇન-એપ ખરીદી મારફતે તમારી ખરીદી અમાન્ય છે. એક નકલી અનુપ્રયોગ શોધવામાં આવ્યો છે. તમે ખરીદવાનો પ્રયાસ કરી રહ્યાં છો તે અનુપ્રયોગ તપાસો અને ફરીથી પ્રયાસ કરો.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">અજ્ઞાત ભૂલ થઈ છે</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">સેમસંગ ઇન-અનુપ્રયોગ ખરીદી</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">સેમસંગ ઇન-અનુપ્રયોગ ખરીદીને અપડેટ કરવાની જરૂર છે</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">વસ્તુઓ ખરીદવા માટે, તમને સેમસંગ ઇન-એપ્લિકેશન પરચેઝ સ્થાપિત કરવાની આવશ્યકતા છે. સ્થાપિત કરીએ?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">સેમસંગ ઇન-એપ્લિકેશન પર ચેઝનું એક નવું સંસ્કરણ ઉપલબ્ધ છે. અપડેટ કરીએ?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">પ્રતીક્ષારત...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">પ્રોડક્ટ આ સ્ટોરમાં હાજર નથી</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">અગાઉથી જ ખરીદાઈ</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">ચૂકવણી રદ કરી</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">નેટવર્ક ઉપલબ્ધ નથી</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">વસ્તુ ખરીદી</string>
+</resources>

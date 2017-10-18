@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchaseをリセット中に、エラーが発生しました。</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">無効な値がSamsung In-App Purchaseに提供されています。</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">予期しないエラーが発生しました。Samsungアカウントの認証がキャンセルされました。</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Samsung In-App Purchaseでの購入は無効です。不正なアプリケーションが検出されました。購入するアプリを確認し、再度実行してください。</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">不明なエラーが発生しました。</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Samsung In-App Purchaseを更新する必要があります。</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">アイテムを購入するには、Samsung In-App Purchaseをインストールする必要があります。インストールしますか？</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Samsung In-App Purchaseの新しいバージョンが利用可能です。更新しますか？</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">待機中...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">このストアには指定した製品はありません。</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">既に購入しました。</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">支払いがキャンセルされました。</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">ネットワークを利用できません。</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">購入済みアイテム</string>
+</resources>

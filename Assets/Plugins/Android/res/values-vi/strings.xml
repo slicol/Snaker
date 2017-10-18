@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Đã xuất hiện lỗi khi đặt lại Mua hàng trong ứng dụng Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Đã cung cấp một giá trị không hợp lệ cho hình thức Mua hàng trong ứng dụng Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Đã xảy ra lỗi không mong muốn. Việc xác thực Samsung account đã bị hủy.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Việc mua hàng của bạn qua hình thức Mua hàng trong ứng dụng Samsung không hợp lệ. Đã phát hiện một ứng dụng giả mạo. Hãy kiểm tra ứng dụng bạn đang muốn mua và thử lại.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Xảy ra lỗi</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Mua hàng trong ứng dụng Samsung</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Mua hàng trong ứng dụng Samsung cần được cập nhật</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Để mua hàng, bạn cần cài đặt Mua hàng trong ứng dụng Samsung. Cài đặt?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Phiên bản mới của Mua hàng trong ứng dụng Samsung đã có. Cập nhật?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Đang chờ…</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Sản phẩm không tồn tại ở kho ứng dụng</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Đã mua</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Đã hủy thanh toán</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Không có dịch vụ mạng</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Mục đã được mua</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Podczas zerowania usługi Zakupy wewnątrz aplikacji firmy Samsung wystąpił błąd</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Do usługi Zakupy wewnątrz aplikacji firmy Samsung dostarczono nieprawidłową wartość</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Wystąpił nieoczekiwany błąd. Uwierzytelnianie Konta Samsung zostało anulowane.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Twój zakup za pomocą usługi Zakupy wewnątrz aplikacji firmy Samsung jest nieprawidłowy. Wykryto sfałszowaną aplikację. Sprawdź aplikację, którą próbujesz kupić, i spróbuj ponownie.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Wystąpił nieznany błąd</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Zakupy wewnątrz aplikacji firmy Samsung</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Usługa Zakupy wewnątrz aplikacji firmy Samsung wymaga aktualizacji</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">Aby móc kupować elementy, musisz zainstalować usługę Zakupy wewnątrz aplikacji firmy Samsung. Zainstalować?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">Dostępna jest nowsza wersja usługi Zakupy wewnątrz aplikacji firmy Samsung. Zaktualizować?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Oczekiwanie...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Produkt nie jest dostępny w tym sklepie</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Już kupiono</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Płatność anulowana</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Sieć niedostępna</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Zakupiono element</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">אירעה שגיאה בעת איפוס Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">סופק ערך לא תקין עבור רכישה מתוך היישום של Samsung</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">אירעה שגיאה בלתי צפויה. אימות חשבון סמסונג בוטל.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">הרכישה שלך דרך ’רכישה מתוך היישום של Samsung‘ אינה תקינה. זוהה יישום מזויף. בדוק את היישום שאתה מנסה לרכוש ונסה שוב.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">ארעה שגיאה לא ידועה</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">יש לעדכן את Samsung In-App Purchase</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">כדי לרכוש פריטים, עליך להתקין את ’רכישה מתוך היישום של Samsung‘. להתקין?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">גרסה חדשה של ’רכישה מתוך היישום של Samsung‘ זמינה כעת. לעדכן?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">ממתין...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">המוצר אינו קיים בחנות זו</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">נרכש כבר</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">התשלום בוטל</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">הרשת אינה זמינה</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">הפריט שנרכש</string>
+</resources>

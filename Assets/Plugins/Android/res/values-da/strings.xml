@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="IDS_SAPPS_POP_AN_ERROR_OCCURRED_WHILE_RESETTING_SAMSUNG_IN_APP_PURCHASE">Der opstod en fejl under nulstilling af Samsung Køb via app</string>
+    <string name="IDS_SAPPS_POP_AN_INVALID_VALUE_HAS_BEEN_PROVIDED_FOR_SAMSUNG_IN_APP_PURCHASE">Der er angivet en ugyldig værdi for Samsung Køb via app</string>
+    <string name="IDS_SAPPS_POP_AN_UNEXPECTED_ERROR_HAS_OCCURRED_SAMSUNG_ACCOUNT_AUTHENTICATION_HAS_BEEN_CANCELLED">Der opstod en uventet fejl. Godkendelse af Samsung-konto er blevet annulleret.</string>
+    <string name="IDS_SAPPS_POP_YOUR_PURCHASE_VIA_SAMSUNG_IN_APP_PURCHASE_IS_INVALID_A_FAKE_APPLICATION_HAS_BEEN_DETECTED_CHECK_THE_APP_MSG">Dit køb via Samsung Køb via app er ugyldigt. Et falsk program er registreret. Kontrollér det program, du prøver at købe, og prøv igen.</string>
+    <string name="IDS_SAPPS_POP_UNKNOWN_ERROR_OCCURRED">Ukendt fejl opstod</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE">Samsung Køb via app</string>
+    <string name="IDS_SAPPS_POP_SAMSUNG_IN_APP_PURCHASE_NEEDS_TO_BE_UPDATED">Samsung Køb via app skal opdateres</string>
+    <string name="IDS_SAPPS_POP_TO_PURCHASE_ITEMS_YOU_NEED_TO_INSTALL_SAMSUNG_IN_APP_PURCHASE_INSTALL_Q">For at købe elementer skal du installere Samsung Køb via app. Installér?</string>
+    <string name="IDS_SAPPS_POP_A_NEW_VERSION_OF_SAMSUNG_IN_APP_PURCHASE_IS_AVAILABLE_UPDATE_Q">En ny version af Samsung Køb via app er tilgængelig. Opdatér?</string>
+    <string name="IDS_SAPPS_BODY_WAITING_ING">Venter...</string>
+    <string name="IDS_SAPPS_POP_PRODUCT_DOES_NOT_EXIST_IN_THIS_STORE">Produkt findes ikke i denne butik</string>
+    <string name="IDS_SAPPS_POP_ALREADY_PURCHASED">Allerede indkøbt</string>
+    <string name="IDS_SAPPS_POP_PAYMENT_CANCELLED">Betaling annulleret</string>
+    <string name="IDS_SAPPS_POP_NETWORK_UNAVAILABLE">Netværk ikke tilgængeligt</string>
+    <string name="IDS_SAPPS_HEADER_ITEM_PURCHASED">Købte elementer</string>
+</resources>
