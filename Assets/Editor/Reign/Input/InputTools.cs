@@ -68,7 +68,7 @@ namespace Reign.EditorTools
 				#if UNITY_5
 				case BuildTarget.WSAPlayer:
 				#else
-				case BuildTarget.WSAPlayer:
+				case BuildTarget.MetroPlayer:
 				#endif
 					saveActiveLayoutAsDefault("WinRT");
 					break;
@@ -80,7 +80,7 @@ namespace Reign.EditorTools
 				#if UNITY_5
 				case BuildTarget.iOS:
 				#else
-				case BuildTarget.iOS:
+				case BuildTarget.iPhone:
 				#endif
 					saveActiveLayoutAsDefault("iOS");
 					break;
@@ -162,7 +162,7 @@ namespace Reign.EditorTools
 				#if UNITY_5
 				case BuildTarget.WSAPlayer:
 				#else
-				case BuildTarget.WSAPlayer:
+				case BuildTarget.MetroPlayer:
 				#endif
 					applyDefaultLayout("WinRT");
 					break;
@@ -174,7 +174,7 @@ namespace Reign.EditorTools
 				#if UNITY_5
 				case BuildTarget.iOS:
 				#else
-				case BuildTarget.iOS:
+				case BuildTarget.iPhone:
 				#endif
 					applyDefaultLayout("iOS");
 					break;

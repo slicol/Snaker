@@ -245,7 +245,7 @@ namespace Reign.EditorTools
 			#if UNITY_5
 			if (target == BuildTarget.WSAPlayer || target == BuildTarget.WP8Player)
 			#else
-			if (target == BuildTarget.WSAPlayer || target == BuildTarget.WP8Player)
+			if (target == BuildTarget.MetroPlayer || target == BuildTarget.WP8Player)
 			#endif
 			{
 				#if UNITY_WP8
@@ -257,7 +257,7 @@ namespace Reign.EditorTools
 				#if UNITY_5
 				if (EditorUserBuildSettings.wsaSDK == WSASDK.UniversalSDK81 && EditorUserBuildSettings.activeBuildTarget != BuildTarget.WP8Player)
 				#else
-				if (/*EditorUserBuildSettings.metroSDK == MetroSDK.UniversalSDK81*/ false && EditorUserBuildSettings.activeBuildTarget != BuildTarget.WP8Player)
+				if (EditorUserBuildSettings.metroSDK == MetroSDK.UniversalSDK81 && EditorUserBuildSettings.activeBuildTarget != BuildTarget.WP8Player)
 				#endif
 				{
 					var projPath = string.Format("{0}/{1}/{1}.Shared/{1}.Shared.projItems", pathToBuiltProject, productName);
