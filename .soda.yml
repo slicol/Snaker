@@ -1,0 +1,19 @@
+from: mac
+
+scm:
+  increment: true
+  checkout: true
+
+envs:
+  version: 3.0.1
+
+stages:
+  build:
+    # 向构建主机安装SODA提供的企业签名证书
+    - pwd
+    - ls
+    - whoami
+    - rm -rf ./bin/
+    - plugin_unity3d -p android -r . -v 5.6.1f1 --unityUsername "#{unity.username}" --unityPassword "#{unity.password}"
+#    - plugin_xcode --xCodePath /Applications/Xcode.app/ --iosPath result --iosName output.ipa --codeSignIdentity "#{sign.identity}"  --provisioningProfile "#{sign.profile}" --provisionMethod  development
+    - plugin_fir --build 1.0 --bundleId com.tencent.snake --file bin/android/output.apk  --name Snake --token "#{fir.token}" --type android --version 1.0
