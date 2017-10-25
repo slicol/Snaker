@@ -1,0 +1,17 @@
+from: mac
+
+scm:
+  increment: true
+  checkout: true
+
+envs:
+  version: 3.0.1
+
+stages:
+  build:
+    - pwd
+    - ls
+    - whoami
+    - rm -rf ./bin/
+    - plugin_unity3d -p android -r . -v 5.6.1f1 --unityUsername "#{unity.username}" --unityPassword "#{unity.password}" --apkPath bin --apkName snake.apk
+    - plugin_fir --build 1.0 --bundleId com.slicol.snake --file bin/snake.apk  --name Snake --token "#{fir.token}" --type android --version 1.0
