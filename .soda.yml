@@ -11,7 +11,6 @@ stages:
   build:
     - pwd
     - ls
-    - whoami
     - rm -rf ./bin/
     - plugin_unity3d_install -v 5.6.1f1 --username "#{unity.username}" --password "#{unity.password}"
     - plugin_unity3d -p android -r . --apkPath bin --apkName snake.apk
