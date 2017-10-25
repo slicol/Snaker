@@ -13,6 +13,6 @@ stages:
     - ls
     - whoami
     - rm -rf ./bin/
-    - plugin_unity3dInstall -v 5.6.1f1 --unityUsername "#{unity.username}" --unityPassword "#{unity.password}"
+    - plugin_unity3d_install -v 5.6.1f1 --unityUsername "#{unity.username}" --unityPassword "#{unity.password}"
     - plugin_unity3d -p android -r . --apkPath bin --apkName snake.apk
     - plugin_fir --build 1.0 --bundleId com.slicol.snake --file bin/snake.apk  --name Snake --token "#{fir.token}" --type android --version 1.0
